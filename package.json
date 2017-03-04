@@ -24,6 +24,7 @@
     "test": "npm run build"
   },
   "dependencies": {
+    "primer-support": "^3.0.1",
     "primer-breadcrumb": "^0.1.1",
     "primer-cards": "^0.1.1",
     "primer-marketing-support": "^0.4.0",
