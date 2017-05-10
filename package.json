@@ -34,7 +34,7 @@
     "primer-tables": "^0.1.2"
   },
   "peerDependencies": {
-    "primer-core": "^2.0.0"
+    "primer-core": "^3.0.0"
   },
   "devDependencies": {
     "primer-module-build": "*"
