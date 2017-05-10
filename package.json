@@ -30,7 +30,7 @@
     "primer-marketing-type": "^0.2.0",
     "primer-page-headers": "^0.1.1",
     "primer-page-sections": "^0.1.1",
-    "primer-support": "^3.0.2",
+    "primer-support": "^4.0.0",
     "primer-tables": "^0.1.2"
   },
   "peerDependencies": {
